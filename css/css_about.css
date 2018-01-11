@@ -1,0 +1,24 @@
+@charset "utf-8";
+#about_us
+{
+ padding-left:5%;
+ padding-right:5%;
+ margin-bottom:50px;
+ margin-top:50px;
+}
+#about_us h3
+{
+ color:#777;
+ font-size:18px;
+}
+#about_us h4
+{
+ color:#18BD9D;
+ font-size:16px;
+}
+#about_us p
+{
+ color:#777;
+ font-size:14px;
+}/* CSS Document */
+

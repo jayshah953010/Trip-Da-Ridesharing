@@ -1,0 +1,32 @@
+@charset "utf-8";
+#about_team
+{
+ padding-left:5%;
+ padding-right:5%;
+ margin-bottom:50px;
+ margin-top:50px;
+}
+#about_team
+{
+ color:#777;
+ font-size:18px;
+}
+#team_members h3
+{
+ color:#18BD9D;
+ font-size:14px;
+}
+
+#team_members h4
+{
+ color:#777;
+ font-size:18px;
+}
+/*#about_vandan
+{
+ float:right;
+ margin-right:100px;
+}*/
+
+/* CSS Document */
+

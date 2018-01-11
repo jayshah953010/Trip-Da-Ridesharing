@@ -1,0 +1,57 @@
+#create_form
+{
+ clear:both;
+ float:left;
+ margin-top:30px;
+ margin-left:5%;
+}
+
+.form_div
+{
+ float:left;
+ color:#18BD9D;
+}
+.form_div table
+{
+ float:left;
+}
+.form_div td
+{
+ width:350px;
+ padding:5px 0px;
+}
+
+.form_div td label
+{
+ float:left;
+ margin-top:12px;
+}
+
+.form_div td input , .form_div td select
+{
+ float:right;
+ padding:10px;
+ background-color:#FFF;
+ font-size:16px;
+ border-radius:4px;
+ border:1px #666 solid;
+ color:#666;
+ box-shadow:0px 0px 2px #666;
+}
+.form_div td input:hover , .form_div td input:focus
+{
+ border:1px #18BD9D solid;
+ color:#18BD9D;
+ box-shadow:0px 0px 2px #18BD9D;
+}
+.form_div td .input1
+{
+ width:100%;
+}
+
+.form_div .button
+{
+ padding:10px 30px 10px;
+ margin-top:20px;
+ margin-left:90px;
+}

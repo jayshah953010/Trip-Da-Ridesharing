@@ -1,0 +1,107 @@
+#result
+{
+ clear:both;
+ float:left;
+ width:100%;
+ margin-top:30px;
+}
+
+#result h1
+{
+ clear:both;
+ float:left;
+ width:100%;
+ padding:10px 0px;
+ text-align:center;
+ font-family:inherit;
+ font-size:24px;
+ font-weight:normal;
+ border-bottom:1px solid #18BD9D;
+ border-top:1px solid #18BD9D;
+ color:#18BD9D;
+ margin:0px;
+}
+
+#result h1 p
+{
+ display:inline;
+ font-size:20px;
+ color:#000;
+}
+.cp_detail
+{
+ float:left;
+ width:46%;
+ margin:30px 2% 0px;
+}
+
+.detail
+{
+ float:left;
+ width:96%;
+ padding:15px 2%;
+ background-color:#DDD;
+ color:#000;
+}
+.detail:hover
+{
+ background-color:#18BD9D;
+ color:#FFF;
+}
+.profile
+{
+ float:left;
+ margin-left:10px;
+ color:inherit;
+}
+.profile a
+{
+ float:left;
+ margin-bottom:10px;
+ color:inherit;
+ font-size:20px;
+ border-bottom:2px solid #FFF;
+}
+.profile p
+{
+ clear:both;
+ float:left;
+ margin:0px;
+ color:inherit;
+}
+
+.time
+{
+ float:right;
+ color:inherit;
+}
+.time p
+{
+ clear:both;
+ float:right;
+ margin:0px;
+ color:inherit;
+}
+.time a
+{
+ clear:both;
+ float:right;
+ color:inherit;
+}
+
+#result .button_c
+{
+ float:left;
+ width:32%;
+ padding:5px 0px;
+ text-align:center;
+ font-family:inherit;
+ font-size:16px;
+ margin-top:5px;
+ background-color:#DDD;
+}
+#result .button_c:hover
+{
+ background-color:#18BD9D;
+ color:FFF;
+}

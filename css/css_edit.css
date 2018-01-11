@@ -1,0 +1,135 @@
+#signup_form
+{
+ clear:both;
+ margin-left:30px;
+ margin-top:30px;
+}
+
+.form_div
+{
+ float:left;
+ color:#666;
+}
+.form_div table
+{
+ float:left;
+}
+.form_div td
+{
+ width:300px;
+ padding:5px 0px;
+}
+
+.form_div .half
+{
+ float:left;
+ width:140px;
+}
+.form_div .half2
+{
+ float:left;
+ width:140px;
+ margin-left:20px;
+}
+.form_div td input
+{
+ padding:10px;
+ width:300px;
+ background-color:#FFF;
+ font-size:16px;
+ border-radius:4px;
+ border:1px #666 solid;
+ color:#666;
+ box-shadow:0px 0px 2px #666;
+}
+.form_div td input:hover , .form_div td input:focus
+{
+ border-color:#18BD9D;
+ color:#18BD9D;
+ box-shadow:0px 0px 2px #18BD9D;
+}
+
+.form_div td div
+{
+ float:left;
+ color:#666;
+}
+.form_div td div:hover
+{
+ color:#F90;
+}
+.form_div td div input
+{
+ padding:0px;
+ width:20px;
+ box-shadow:none;
+}
+.form_div td div input:hover , .form_div td div input:focus
+{
+ box-shadow:none;
+}	
+
+.form_div .button
+{
+ padding:9px 20px;
+ margin-top:0px;
+ margin-left:0px;
+}
+
+#profile_div
+{
+ float:left;
+ margin:10px 30px 0px 0px ;
+}
+#prodiv
+{
+ clear:both;
+ float:left;
+ width:200px;
+ height:200px;
+}
+#proimg
+{
+ top:0px;
+ left:0px;
+ width:inherit;
+ height:inherit;
+ box-shadow:0px 0px 3px #000;
+}
+
+#proinput
+{
+ width:inherit;
+ height:inherit;
+ top:-200px;
+ left:0px;
+ position:relative;
+ opacity: 0;
+ cursor:pointer;
+}
+.protext
+{
+ clear:both;
+ float:left;
+ width:200px;
+ font-size:16px;
+ color:#666;
+ text-align:center;
+}
+#remove:hover
+{
+ text-shadow:none;
+}
+
+
+
+
+/*In Change_Password.jsp*/
+#pass_profile
+{
+ clear:both;
+ float:left;
+ width:200px;
+ height:200px;
+ margin-right:30px;
+}
