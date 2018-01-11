@@ -8,5 +8,7 @@ Highlight of a Project:
 2) Chat box where user can share and receive notifications and chat with each other
 
 Front End Language : HTML,CSS
+
 Scripting Language : JavaScript, JSP
+
 Database : Oracle SQL
